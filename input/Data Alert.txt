@@ -1,0 +1,16 @@
+MDR;MP;8101;Bank Mandiri Online         ;offline
+MDR;MP;8102;Bank Mandiri Online         ;offline
+MDR;MP;8103;Bank Mandiri Online         ;offline
+BTN;MP;9201;Bank Tabungan Negara        ;offline
+BNI;MP;7301;Bank Negara Indonesia       ;offline
+BNI;MP;7302;Bank Negara Indonesia       ;offline
+MTP;MP;8401;Bank Mandiri Taspen         ;offline
+BCA;MP;9501;Bank Central Asia           ;offline
+BCA;MP;9502;Bank Central Asia           ;offline
+MDR;MP;8601;Bank Mandiri                ;offline
+MDR;MP;8602;Bank Mandiri                ;offline
+MDR;MP;8602;Bank Mandiri                ;offline
+BNI;MP;7303;Bank Negara Indonesia       ;offline
+BNI;MP;7304;Bank Negara Indonesia       ;offline
+BNI;MP;8701;Bank Rakyat Indonesia       ;offline
+BNI;MP;8702;Bank Rakyat Indonesia       ;offline
