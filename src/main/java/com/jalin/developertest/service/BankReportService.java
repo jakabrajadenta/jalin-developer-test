@@ -35,11 +35,11 @@ public class BankReportService {
 
     public Map<String,String> getMapConnectedBankByBankCode(){
         var mapConnectedBank = new HashMap<String,String>();
-        mapConnectedBank.put("MDR","mandiri@mail.com");
-        mapConnectedBank.put("BTN","btn@mail.com");
-        mapConnectedBank.put("BNI","bni@mail.com");
-        mapConnectedBank.put("MTP","mtp@mail.com");
-        mapConnectedBank.put("BCA","bca@mail.com");
+        mapConnectedBank.put("MDR","brajamobilelegends@gmail.com");
+        mapConnectedBank.put("BTN","brajamobilelegends@gmail.com");
+        mapConnectedBank.put("BNI","brajamobilelegends@gmail.com");
+        mapConnectedBank.put("MTP","brajamobilelegends@gmail.com");
+        mapConnectedBank.put("BCA","brajamobilelegends@gmail.com");
         return mapConnectedBank;
     }
 }
