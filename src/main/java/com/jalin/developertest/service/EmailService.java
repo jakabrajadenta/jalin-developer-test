@@ -1,5 +1,6 @@
 package com.jalin.developertest.service;
 
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.mail.SimpleMailMessage;
 import org.springframework.mail.javamail.JavaMailSender;
@@ -9,6 +10,7 @@ import org.springframework.util.StringUtils;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 
+@Slf4j
 @Service
 public class EmailService {
 
@@ -51,6 +53,8 @@ public class EmailService {
         message.setTo(destinasion);
         message.setSubject(subject);
         message.setText(text);
+        log.info("Message : {}",message);
+        log.info("Body Message : {}",text);
         emailSender.send(message);
     }
 
